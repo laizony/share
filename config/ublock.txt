@@ -95,6 +95,11 @@ cnbeta.com##div[style*="z-index:99999"]
 www.javbus.com##table.ad-table
 www.javbus.com##div.pt10.text-center
 www.javbus.com##div.col-xs-12.col-md-4.text-center.ptb10
+||www.javbus.com/ads/*.gif$image
+||https://ads.exoclick.com/ads.js
+||https://adserver.juicyads.com/js/jads.js
+||adserver.juicyads.com
+||ads.exoclick.com
 
 chinaz.com##div.fr.topTsCenter
 chinaz.com##div.fr.topTsCentRank
@@ -147,6 +152,8 @@ a8bt.cc##div.list-area>a
 ||http://js883.guangzizai.com/auc/v-4069-17.js
 ||http://go.gotourl.xyz/bill.gif
 ||http://assets.258pcf.com/ss/sst.js
+||http://js84.enyayinxiang.com/js/c/cevent.js
+||http://go.gotourls.bid/bill.gif
 
 www.runoob.com##ins.adsbygoogle
 zuanke8.com##ins.adsbygoogle
