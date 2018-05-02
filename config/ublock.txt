@@ -24,20 +24,33 @@
 
 ! 百度
 ||https://hm.baidu.com/hm.js
-||https://dup.baidustatic.com/js/os.js
 ||http://cbjs.baidu.com/js/o.js
 ||http://cee1.iteye.com/avneunkwb.js
 ||http://cee1.iteye.com/bwocoltly.js
 ||track.bes.baidu.com
-||cpro.baidustatic.com
-||cpro.baidu.com
 ||union.baidu.com
 ||cb.baidu.com
-||pos.baidu.com
 ||hm.baidu.com
 ||bdx.playnext.cn
 ||cee1.iteye.com
 ||cee2.iteye.com
+
+//百度网盟推广
+||f11.baidu.com
+||f12.baidu.com
+||cm.baidu.com
+||cpro.baidu.com
+||pos.baidu.com
+||cpro.baidustatic.com
+||f10.baidu.com
+||t12.baidu.com
+||t11.baidu.com
+||t10.baidu.com
+||show.findqc.com
+||img.findqc.com
+||cm.pos.baidu.com
+||dup.baidustatic.com
+||wn.pos.baidu.com
 
 网站统计
 ||51.la
@@ -211,3 +224,10 @@ jb51.net##a.rshare-tsina
 ||http://jscode.jbzj.com/lgypofdip.js
 ||http://jscode.jbzj.com/dyqhaquun.js
 ||http://jscode.jbzj.com/fasjibjzg.js
+
+||*.adskeeper.co
+||https://onclicksuper.com/script/suurl.php
+
+||http://xne1ocient87zxz.360doc.cn/tps/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js
+||http://www.360doc.com/ad/ad5.html
+||http://www.360doc.com/ad/ad4_300.html
