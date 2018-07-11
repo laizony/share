@@ -167,10 +167,22 @@ a8bt.cc##div.list-area>a
 ||http://assets.258pcf.com/ss/sst.js
 ||http://js84.enyayinxiang.com/js/c/cevent.js
 ||http://go.gotourls.bid/bill.gif
+||https://go.gotourls.bid/bill.gif
+a8bt.cc##div.footer
+||https://jc.xuqinqi.cn/5317b6/v@59145!17.js
+||https://jc.xuqinqi.cn/5317b6/v@59167!21.js
+||https://www.tuituigui19999.com/code.php?a=index&z=47
+||https://j.qiqivv.com:4433/blog/showdetail.php?z=113918
+||https://j.qiqivv.com:4433/code_static_3/lele0.js
+||https://hechaocheng.cn/$.js
+||m.edo5.com
 
 www.runoob.com##ins.adsbygoogle
+
 zuanke8.com##ins.adsbygoogle
 zuanke8.com##div.a_pb
+zuanke8.com##div.sign
+zuanke8.com###postlist>div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > .plc > .pct > div:nth-of-type(1)
 
 right.com.cn##div.a_mu
 right.com.cn##tr.ad
@@ -181,6 +193,7 @@ bilibili.com##div.bilibili-player-promote-wrap
 bilibili.com##div.v_small
 bilibili.com##div.ad-f
 bilibili.com##div.gg-floor-module.video-top-ad
+bilibili.com##div.gg-floor-module.video-bottom-ad.has-ad
 
 ! 2018/2/1 下午6:09:20 http://document.thinkphp.cn/manual_3_2.html#develop_standard
 ||e.topthink.com/Uploads/Picture/2018-01-29/5a6ec4de7a25e.jpg$image
