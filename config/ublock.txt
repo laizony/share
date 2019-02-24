@@ -21,6 +21,7 @@
 ||show.g.mediav.com
 ||https://ubmcvideo.baidustatic.com/media/v1/0f0005c0DnBMxFf5oaa4L0.mp4
 ||https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html
+||https://www.google-analytics.com/analytics.js
 
 ! 百度
 ||https://hm.baidu.com/hm.js
@@ -75,6 +76,7 @@ www.zhihu.com##div.Card-header.Recommendations-title
 www.v2ex.com##ins.adsbygoogle
 www.v2ex.com##div.sidebar_units
 www.v2ex.com##div.sidebar_compliance
+!v2ex.com##div.inner>a:nth-of-type(1)
 
 ! 百度搜索
 www.baidu.com###content_right.cr-offset
@@ -141,41 +143,27 @@ hupu.com##div.hp-ad250-250
 hupu.com##div#jdAdBox
 hupu.com##div#google_image_div
 
-!csdn.net##div.fixRight __web-inspector-hide-shortcut__
-!csdn.net##div.extension_other.csdn-tracking-statistics
-!csdn.net##div.tracking-ad
-!csdn.net##div.fixRight
-
-alicili.pw##dl.dlbox.flink
-alicili.pw##div.list-area>a
-a8bt.cc##div.list-area>a
-||a8bt.cc/images/logo.png
-||http://dfx.vnnv777.cn/js/dl.js
-||http://dfx.vnnv777.cn/pge/?s=51062
-||http://j.qiqivv.com:6060/blog/i20161011.php?z=113918
-||http://v.6dvip.com/ge/?s=50605
-||http://dl.8ox.cn/js/cdl.js
-||www.snxiu358.com
-||tp.sxknitting.com.cn
-||js6882.mengchengbao.com
-||js.soonyou123.com
-||maw.wnbfw.com
-||js.start1999.com
-||http://e.tdtsd.com/8673
-||http://js883.guangzizai.com/auc/v-4069-17.js
-||http://go.gotourl.xyz/bill.gif
-||http://assets.258pcf.com/ss/sst.js
-||http://js84.enyayinxiang.com/js/c/cevent.js
-||http://go.gotourls.bid/bill.gif
-||https://go.gotourls.bid/bill.gif
-a8bt.cc##div.footer
-||https://jc.xuqinqi.cn/5317b6/v@59145!17.js
-||https://jc.xuqinqi.cn/5317b6/v@59167!21.js
-||https://www.tuituigui19999.com/code.php?a=index&z=47
-||https://j.qiqivv.com:4433/blog/showdetail.php?z=113918
-||https://j.qiqivv.com:4433/code_static_3/lele0.js
-||https://hechaocheng.cn/$.js
-||m.edo5.com
+!csdn
+||https://static.mediav.com/js/mvf_news_feed.js
+csdn.net##div.fixRight __web-inspector-hide-shortcut__
+csdn.net##div.extension_other.csdn-tracking-statistics
+csdn.net##div.tracking-ad
+csdn.net##div.fixRight
+||rabc2.iteye.com
+||rabc1.iteye.com
+||rabc1.iteye.com/common/js/ndr3h.js?b=wosyvccl
+||rabc1.iteye.com/mgkojt.js
+||rabc1.iteye.com/production/source/pc3553.js?pkcgstj=jm
+||rabc1.iteye.com/source/api/ymebi.js?bwoc=oltly
+||rabc1.iteye.com/source/res/yn6yz.js?ojylrgb=yk
+||rabc1.iteye.com/common/web/site/9i6gu.js
+||cjhd.mediav.com/js/interactive_plugin.js
+||g.csdnimg.cn/check-adblock/1.0.6/check-adblock.js
+csdn.net##div.pulllog-box
+csdn.net##div#dmp_ad_58
+csdn.net##div.csdn-tracking-statistics.mb8.box-shadow
+csdn.net##div#asideFooter
+||https://nbrecsys.4paradigm.com/api/v0/recom/recall?requestID=gziKn5Kd&userID=vdUz4vqU7z&sceneID=420
 
 www.runoob.com##ins.adsbygoogle
 
@@ -183,6 +171,8 @@ zuanke8.com##ins.adsbygoogle
 zuanke8.com##div.a_pb
 zuanke8.com##div.sign
 zuanke8.com###postlist>div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > .plc > .pct > div:nth-of-type(1)
+||www.zuanke8.com/static/image/common/logo.png$image
+zuanke8.com##div.zuanamu>a
 
 right.com.cn##div.a_mu
 right.com.cn##tr.ad
@@ -256,9 +246,6 @@ weibo.com##div#v6_pl_content_biztips
 ||http://d4.sina.com.cn/litong/zhitou/sinaads/release/spec/sinaPlistaAD.js
 ||http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.js
 
-!csdn
-||https://static.mediav.com/js/mvf_news_feed.js
-
 cnbeta.com##div.article-topic
 
 v2ex.com##ins.adsbygoogle
@@ -274,4 +261,54 @@ v2ex.com##div.sidebar_compliance
 ||https://cdn.taboola.com/libtrc/cnbeta-english/loader.js
 ||https://static.googles.com/adserver/adlogger_tracker.php
 
-||https://www.google-analytics.com/analytics.js
+www.xrxba.com##div.carousel-inner
+||http://wx2.sinaimg.cn/large/005GRsDJgy1ft27rxesegg30qo01yx6r.gif
+
+! 2018/7/31 上午9:54:25 东方财富 https://jy.xzsec.com/Login?el=1&clear=1&returl=%2fTrade%2fBuy
+||zqhd.eastmoney.com/fileupload/Pics/20180718/20180718_142914_14_397.png$image
+||fc-feed.cdn.bcebos.com/0/pic/c4b8100e5bab33de26b340877233335b.jpg$image
+||jy.xzsec.com/images/tright2.png$image
+||jy.xzsec.com/images/logo4.png$image
+
+jianshu.com##div#fixed-ad-container
+jianshu.com##div.recommend-note
+
+!pt
+||imagez.to/i/SaqDE3Ii.gif$image
+totheglory.im##div#team2
+totheglory.im##div#ad_wrapper2
+hdchina.org##div#ad_belownav
+hdarea.co##span#ad_header
+hdarea.co##div#ad_belownav
+
+!a8
+alicili.pw##dl.dlbox.flink
+alicili.pw##div.list-area>a
+a8bt.cc##div.list-area>a
+a8bt.cc##div.footer
+||a8bt.cc/images/logo.png
+||j.qiqivv.com
+||hechaocheng.cn
+||m.edo5.com
+||i.jyhwt.cn
+||v.6dvip.com
+||dfx.vnnv777.cn
+||addthis.com
+||jc.shenglonghg.net
+||jc.4006825178.com
+||qj.borsendental.com
+||safe-aisle.jointreport-switch.com
+||jhwj88.com
+||www.snxiu358.com
+||tp.sxknitting.com.cn
+||js6882.mengchengbao.com
+||js.soonyou123.com
+||maw.wnbfw.com
+||js.start1999.com
+||http://dl.8ox.cn/js/cdl.js
+||qj.borsendental.com
+||k.hdjxmf.com
+||assets.258ydh.com
+||js.flpjc.com
+||g.tangeb.com
+||www.18dusun.com
