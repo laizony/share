@@ -384,6 +384,12 @@ eastmoney.com##div.titlebox.Rdtj1
 ||emcharts.dfcfw.com/EMFloatFrame/prod/emfloatframe.min.js$document
 ||emres.dfcfw.com/public/js/emfloatframe.run.js$document
 ||emres.eastmoney.com/appmarketing/jrjh.html?source=zixun$document
+||emres.eastmoney.com/appmarketing/jrjh.html?source=zixun$important
+||emres.eastmoney.com/appmarketing/znzg.html?source=zixun$important
+eastmoney.com##div.tuijiannews
+eastmoney.com##div#linebox_rmgz
+eastmoney.com##div#hot_content
+eastmoney.com##div.ads-hqb
 
 ! 2020-09-23 http://forex.eastmoney.com
 ||emres.eastmoney.com/appmarketing/znzg.html?source=zixun$document
